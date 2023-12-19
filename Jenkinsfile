@@ -1,3 +1,3 @@
-@Library('Jenkins_shared_library') _
+@Library('shared-library-jenkins') _
 
-mySharedPipelineJava()     
+mySharedPipelineJava()  
